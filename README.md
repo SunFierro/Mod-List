@@ -5,7 +5,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 ## Mods
 |Name|Links|Notes|
 |-|-|-|
-|3D Skin Layers|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)||
+|3D Skin Layers|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) [Modrinth](https://modrinth.com/mod/3dskinlayers)||
 ||[]()||
 ||[]()||
 ||[]()||
