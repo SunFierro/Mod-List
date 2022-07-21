@@ -1,6 +1,6 @@
 # Mod-List
 
-This is a list of many client side fabric mods to refresh your vanilla experience!
+This is a list of many client side fabric mods to refresh your vanilla experience! (WIP)
 
 ## Mods
 |Name|Links|Notes|
