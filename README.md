@@ -7,7 +7,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |-|-|-|
 |3D Skin Layers|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) [Modrinth](https://modrinth.com/mod/3dskinlayers)||
 |AppleSkin|[CurseFroge](https://www.curseforge.com/minecraft/mc-mods/appleskin)||
-|Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner)||
+|Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner)|⚠️If you are using this mod on a server please ask an admin about their opinion of this mod⚠️|
 |Beenfo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/beenfo)||
 |BetterBlockOutline|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterblockoutline)||
 |Better End Sky|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-end-sky-fabric)||
@@ -87,13 +87,13 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Time To Live|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/time-to-live)||
 |TitleChanger|[Modrinth](https://modrinth.com/mod/mctitlechanger)||
 |ToroHealth Damage Indicators|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)||
-|TweakerMore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakermore)||
-|Tweakeroo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)||
+|TweakerMore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakermore)|⚠️Some Features of this mod can be considered as cheating⚠️|
+|Tweakeroo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)|⚠️Some Features of this mod can be considered as cheating⚠️|
 |u00a7|[Modrinth](https://modrinth.com/mod/u00a7)||
 |Visuality|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/visuality)||
 |Xaero's Minimap|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)||
 |Xaero's World Map|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)||
-|Better Foliage|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)||
+|Better Foliage|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)|Outdated|
 |Phosphor|[Modrinth](https://modrinth.com/mod/phosphor)||
 |AdvancementInfo|[Modrinth](https://modrinth.com/mod/advancementinfo)||
 |Reese's Sodium Options|[Modrinth](https://modrinth.com/mod/reeses-sodium-options)||
