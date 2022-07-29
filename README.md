@@ -93,18 +93,18 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Visuality|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/visuality)||
 |Xaero's Minimap|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)||
 |Xaero's World Map|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
-||[]()||
+|Better Foliage|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)||
+|Phosphor|[Modrinth](https://modrinth.com/mod/phosphor)||
+|AdvancementInfo|[Modrinth](https://modrinth.com/mod/advancementinfo)||
+|Reese's Sodium Options|[Modrinth](https://modrinth.com/mod/reeses-sodium-options)||
+|DashLoader|[Modrinth](https://modrinth.com/mod/dashloader)||
+|WTHIT|[Modrinth](https://modrinth.com/mod/wthit)||
+|Concurrent Chunk Management Engine|[Modrinth](https://modrinth.com/mod/c2me-fabric)||
+|Cull Leaves|[Modrinth](https://modrinth.com/mod/cull-leaves)||
+|BetterF3|[Modrinth](https://modrinth.com/mod/betterf3)||
+|AntiGhost|[Modrinth](https://modrinth.com/mod/antighost)||
+|Debugify|[Modrinth](https://modrinth.com/mod/debugify)||
+|Particles Enhanced|[Modrinth](https://modrinth.com/mod/particlesenhanced)||
 ||[]()||
 ||[]()||
 ||[]()||
