@@ -34,6 +34,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Enhanced Block Entities|[Modrinth](https://modrinth.com/mod/ebe)||
 |EntityCulling|[Modrinth](https://modrinth.com/mod/entityculling)||
 |Extended Clouds|[Modrinth](https://modrinth.com/mod/extended-clouds)||
+|Fabric API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)||
 |FabricSkyboxes|[Modrinth](https://modrinth.com/mod/fabricskyboxes)||
 |Fabrishot|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrishot)||
 |Falling Leaves|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)||
