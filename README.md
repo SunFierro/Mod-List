@@ -106,8 +106,8 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Debugify|[Modrinth](https://modrinth.com/mod/debugify)||
 |Particles Enhanced|[Modrinth](https://modrinth.com/mod/particlesenhanced)||
 |Smooth Boot|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)||
-||[]()||
-||[]()||
+|Simply No Shading|[Modrinth](https://modrinth.com/mod/simply-no-shading)||
+|KronHUD|[Modrinth](https://modrinth.com/mod/kronhud)||
 ||[]()||
 ||[]()||
 ||[]()||
