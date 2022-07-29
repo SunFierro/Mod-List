@@ -12,7 +12,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |BetterBlockOutline|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterblockoutline)||
 |Better End Sky|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-end-sky-fabric)||
 |Better End Sky|[Modrinth](https://modrinth.com/mod/better-end-sky)||
-|BetterEnd Sky|[CurseForge](https://modrinth.com/mod/betterendsky)||
+|BetterEnd Sky|[Modrinth](https://modrinth.com/mod/betterendsky)||
 |BetterHurtCam|[CurseForge](https://modrinth.com/mod/betterhurtcam)||
 |Better Taskbar|[CurseForge](https://modrinth.com/mod/better-taskbar)||
 |Blur|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)||
