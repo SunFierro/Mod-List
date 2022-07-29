@@ -7,7 +7,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |-|-|-|
 |3D Skin Layers|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) [Modrinth](https://modrinth.com/mod/3dskinlayers)||
 |AppleSkin|[CurseFroge](https://www.curseforge.com/minecraft/mc-mods/appleskin)||
-|Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner)|⚠️If you are using this mod on a server please ask an admin about their opinion of this mod⚠️|
+|Fabric Bedrock Miner|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-bedrock-miner)|⚠️If you are using this mod on a server please ask an admin about their opinion on this mod⚠️|
 |Beenfo|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/beenfo)||
 |BetterBlockOutline|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterblockoutline)||
 |Better End Sky|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-end-sky-fabric)||
