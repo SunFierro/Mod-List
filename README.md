@@ -108,7 +108,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Smooth Boot|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)||
 |Simply No Shading|[Modrinth](https://modrinth.com/mod/simply-no-shading)||
 |KronHUD|[Modrinth](https://modrinth.com/mod/kronhud)||
-||[]()||
-||[]()||
+|FastAnim|[Modrinth](https://modrinth.com/mod/fastanim)||
+|Sodium Crash Fix|[Modrinth](https://modrinth.com/mod/sodium-crash-fix)||
 ||[]()||
 ||[]()||
