@@ -35,7 +35,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |EntityCulling|[Modrinth](https://modrinth.com/mod/entityculling)||
 |Extended Clouds|[Modrinth](https://modrinth.com/mod/extended-clouds)||
 |Fabric API|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)||
-|FabricSkyboxes|[Modrinth](https://modrinth.com/mod/fabricskyboxes)||
+|FabricSkyboxes|[Modrinth](https://modrinth.com/mod/fabricskyboxes)|I'd recommend to use Clear Skies with this mod because without it the sky looks very dull. [Before](https://imgur.com/a/XUfroVJ) [After](https://imgur.com/a/cY4lkeP)|
 |Fabrishot|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrishot)||
 |Falling Leaves|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)||
 |FastChest|[GitHub](https://github.com/FakeDomi/FastChest)||
