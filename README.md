@@ -112,7 +112,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Sodium Crash Fix|[Modrinth](https://modrinth.com/mod/sodium-crash-fix)||
 |Gatekeep|[Modrinth](https://modrinth.com/mod/gatekeep) [GitHub](https://github.com/thirdsanctuary/gatekeep)||
 |Too Many Players|[Modrinth](https://modrinth.com/mod/tmp)||
-|Show Me Your Skin1|[Modrinth](https://modrinth.com/mod/show-me-your-skin)||
+|Show Me Your Skin!|[Modrinth](https://modrinth.com/mod/show-me-your-skin)||
 ||[]()||
 ||[]()||
 ||[]()||
