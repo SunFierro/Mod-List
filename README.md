@@ -84,7 +84,7 @@ This is a list of many client side fabric mods to refresh your vanilla experienc
 |Sound Physics Remastered|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)||
 |Starlight|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/starlight)||
 |Textile Backup|[Modrinth](https://modrinth.com/mod/textile_backup)||
-|Time To Live|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/time-to-live)||
+|Time To Live|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/time-to-live)|Outdated|
 |TitleChanger|[Modrinth](https://modrinth.com/mod/mctitlechanger)||
 |ToroHealth Damage Indicators|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)||
 |TweakerMore|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakermore)|⚠️Some Features of this mod can be considered as cheating⚠️|
